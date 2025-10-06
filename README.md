@@ -32,5 +32,5 @@ Este projeto implementa Infrastructure as Code (IaC) para automatizar a configur
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/seu-usuario/linux-projeto1-iac.git
+git clone https://github.com/jplustosa/-Infraestrutura-como-C-digo.git
 cd linux-projeto1-iac
